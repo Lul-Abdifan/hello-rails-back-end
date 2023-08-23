@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git git@github.com:Lul-Abdifan/hello-rails-back-end.git
+git@github.com:Lul-Abdifan/hello-rails-back-end.git
 ```
 
 ### Install
