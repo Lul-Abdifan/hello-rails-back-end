@@ -11,6 +11,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - [Frontend](#frontend---link)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
@@ -104,6 +105,8 @@ To run the project, execute the following command:
 ```sh
   rails server
 ```
+### Frontend - Link
+[Frontend Project](https://github.com/Lul-Abdifan/hello-react-front-end-/tree/frontend-setup)
 
 ### Run tests
 
